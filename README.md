@@ -1,16 +1,10 @@
-<p align="center"> 
-  <img src="https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg" /><br/><br/>
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/abhishekk1098/count.svg"  height="20" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Abhishek Bhushan</h1>
 <h3 align="center">🚀 Passionate coder exploring the infinite possibilities of technology. Full Stack Developer with a love for clean code, problem-solving, and building user-centric applications. Specialized in React & SpringBoot. Let's collaborate and turn lines of code into meaningful solutions!</h3>
 
 ## Know more
 - 🔭 I’m currently working on **Investment Tracker**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **RxJava**
 
 - 💬 Ask me about **React & SpringBoot**
 
